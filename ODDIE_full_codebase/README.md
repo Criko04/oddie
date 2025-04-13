@@ -11,8 +11,8 @@ Neutral chaotic AI personality powered by Raspberry Pi.
 - Expandable personality modules
 
 ## Wake/Sleep Commands
-- Wake: `Hey Whiskerbyte`
-- Sleep: `Good night Whiskerbyte`
+- Wake: `Hey Oddie`
+- Sleep: `Good night Oddie`
 
 ## Setup
 Run the setup script or follow manual installation steps.
